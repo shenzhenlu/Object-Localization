@@ -1,5 +1,5 @@
 # Object Localization
-Classify and Localize Pokemon Figures from Backgrounds in Complexity-Incrementing Manner with CNN .
+Classify and Locate Pokemon Figures from various Backgrounds in Complexity-Incrementing Manner with CNN.
 
 ## Software
 * Google Colab Notebook
